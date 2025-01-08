@@ -22,12 +22,13 @@ github: kslee990614
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  Hello, I am a second year M.S. student advised by Prof. <a href="https://github.com/kslee990614" target="_blank">Dongha Lee</a> at <a href="http://diyonsei.notion.site" target="_blank">DLI Lab</a>, Yonsei University. 
+  Hello, I am a second-year M.S. student at Chung-Ang University, advised by Prof. Hakgu Kim in the <a href="https://www.irislab.cau.ac.kr/" target="_blank">IRIS Lab</a>.
   </p>
   <p>
-  As a researcher in natural language processing (NLP), I aim to develop a human-like and faithful Large Language Model (LLM). Specifically, my research interest includes: (i) <b>evaluating knowledge of LLMs</b> in various domains and tasks, and (ii) <b>injecting, augmenting, and updating knowledge to LLMs.</b>
+  As a researcher specializing in adversarial attacks, my primary focus is on developing robust adversarial attack techniques for 3D data. Specifically, my research interests include: (i) <b>3D adversarial attacks using text</b>, and (ii) <b>adversarial attacks through deformation.</b>
+  </p>
   <p>
-  Most recently, I am interested in creating benchmarks and evaluating LLMs, especially in terms of their Korean (and multilingual) proficiency on various tasks. 
+  Recently, I have been particularly interested in exploring 3D adversarial attacks through deformation combined with text-based inputs.
   </p>
 
 
@@ -50,10 +51,10 @@ education:
   date: Mar. 2019 - Feb. 2023
 
 experience:
-- name: Tutoring
-  logo: /assets/images/badges/tutoring.png
-  position: AI Researcher
-  date: Mar. 2023 - Feb. 2024
+#- name: Tutoring
+#  logo: /assets/images/badges/tutoring.png
+#  position: AI Researcher
+#  date: Mar. 2023 - Feb. 2024
 
 # awards:
 # - name: Award Name 2
