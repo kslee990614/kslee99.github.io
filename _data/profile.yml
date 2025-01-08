@@ -1,0 +1,64 @@
+primary_name: "Seoyeon Kim"
+secondary_name: ""
+navbar_name: "Seoyeon Kim"
+
+# positions:
+# # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+# -  name: Position 1 with logo
+# - name: Position 2 without logo
+
+
+email: "emseoyk@yonsei.ac.kr"
+cv_link: https://emseoyk.github.io/assets/SeoYeonKim_CV.pdf
+gscholar: https://scholar.google.com/citations?hl=ko&user=FsOeY4UAAAAJ  # This is an example, replace it with your own Google Scholar ID
+linkedin: seoyeonkim1121
+github: emseoyk
+# twitter: your_twitter_id  # Do not include the '@' symbol
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+  Hello, I am a second year M.S. student advised by Prof. <a href="https://donalee.github.io" target="_blank">Dongha Lee</a> at <a href="http://diyonsei.notion.site" target="_blank">DLI Lab</a>, Yonsei University. 
+  </p>
+  <p>
+  As a researcher in natural language processing (NLP), I aim to develop a human-like and faithful Large Language Model (LLM). Specifically, my research interest includes: (i) <b>evaluating knowledge of LLMs</b> in various domains and tasks, and (ii) <b>injecting, augmenting, and updating knowledge to LLMs.</b>
+  <p>
+  Most recently, I am interested in creating benchmarks and evaluating LLMs, especially in terms of their Korean (and multilingual) proficiency on various tasks. 
+  </p>
+
+
+
+
+
+
+portrait_url: /assets/images/photos/acl.png
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+
+education:
+- name: Yonsei University
+  logo: /assets/images/badges/yonsei.jpg
+  position: M.S. in Artificial Intelligence
+  date: Sep. 2023 - Aug. 2025 (expected)
+- name: Yonsei University
+  logo: /assets/images/badges/yonsei.jpg
+  position: B.A. in English Language and Literature<br>B.S. in Industrial Engineering
+  date: Mar. 2019 - Aug. 2023
+
+experience:
+- name: Tutoring
+  logo: /assets/images/badges/tutoring.png
+  position: AI Researcher
+  date: Mar. 2023 - Feb. 2024
+
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021
