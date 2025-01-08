@@ -1,6 +1,6 @@
-primary_name: "Seoyeon Kim"
+primary_name: "Kyoseok Lee"
 secondary_name: ""
-navbar_name: "Seoyeon Kim"
+navbar_name: "Kyoseok Lee"
 
 # positions:
 # # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
@@ -8,11 +8,11 @@ navbar_name: "Seoyeon Kim"
 # - name: Position 2 without logo
 
 
-email: "emseoyk@yonsei.ac.kr"
+email: "kslee99@cau.ac.kr"
 cv_link: https://emseoyk.github.io/assets/SeoYeonKim_CV.pdf
 gscholar: https://scholar.google.com/citations?hl=ko&user=FsOeY4UAAAAJ  # This is an example, replace it with your own Google Scholar ID
-linkedin: seoyeonkim1121
-github: emseoyk
+linkedin: Kyo-Seok Lee
+github: kslee990614
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -22,7 +22,7 @@ github: emseoyk
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  Hello, I am a second year M.S. student advised by Prof. <a href="https://donalee.github.io" target="_blank">Dongha Lee</a> at <a href="http://diyonsei.notion.site" target="_blank">DLI Lab</a>, Yonsei University. 
+  Hello, I am a second year M.S. student advised by Prof. <a href="https://github.com/kslee990614" target="_blank">Dongha Lee</a> at <a href="http://diyonsei.notion.site" target="_blank">DLI Lab</a>, Yonsei University. 
   </p>
   <p>
   As a researcher in natural language processing (NLP), I aim to develop a human-like and faithful Large Language Model (LLM). Specifically, my research interest includes: (i) <b>evaluating knowledge of LLMs</b> in various domains and tasks, and (ii) <b>injecting, augmenting, and updating knowledge to LLMs.</b>
@@ -35,19 +35,19 @@ short_bio: >-
 
 
 
-portrait_url: /assets/images/photos/acl.png
+portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: >-
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Yonsei University
-  logo: /assets/images/badges/yonsei.jpg
+- name: Chung-Ang University
+  logo: /assets/images/badges/cau_logo.png
   position: M.S. in Artificial Intelligence
-  date: Sep. 2023 - Aug. 2025 (expected)
-- name: Yonsei University
-  logo: /assets/images/badges/yonsei.jpg
-  position: B.A. in English Language and Literature<br>B.S. in Industrial Engineering
-  date: Mar. 2019 - Aug. 2023
+  date: Mar. 2023 - Feb. 2025
+- name: Eulji University
+  logo: /assets/images/badges/eulji_logo.png
+  position: B.S. in Medical IT
+  date: Mar. 2019 - Feb. 2023
 
 experience:
 - name: Tutoring
