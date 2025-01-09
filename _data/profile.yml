@@ -1,6 +1,6 @@
-primary_name: "Kyoseok Lee"
+primary_name: "Kyo Seok Lee"
 secondary_name: ""
-navbar_name: "Kyoseok Lee"
+navbar_name: "Kyo Seok Lee"
 
 # positions:
 # # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
@@ -22,7 +22,7 @@ github: kslee990614
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  Hello, I am a second-year M.S. student at Chung-Ang University, advised by Prof. Hakgu Kim in the <a href="https://www.irislab.cau.ac.kr/" target="_blank">IRIS Lab</a>.
+  Hello, I am a second-year M.S. student at Chung-Ang University, advised by Prof. Hak Gu Kim in the <a href="https://www.irislab.cau.ac.kr/" target="_blank">IRIS Lab</a>.
   </p>
   <p>
   As a researcher specializing in adversarial attacks, my primary focus is on developing robust adversarial attack techniques for 3D data. Specifically, my research interests include: (i) <b>3D adversarial attacks using text</b>, and (ii) <b>adversarial attacks through deformation.</b>
